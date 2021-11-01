@@ -1,0 +1,13 @@
+org\acme\CorsConfig.class
+org\kie\kogito\app\ConfigBean.class
+org\kie\kogito\app\RuleUnits.class
+org\acme\KogitoApplication.class
+org\kie\kogito\app\ApplicationConfig.class
+org\kie\kogito\app\RuleConfig.class
+org\kie\kogito\app\DecisionModels.class
+org\kie\kogito\app\GlobalObjectMapper.class
+org\kie\kogito\app\Application.class
+org\acme\HelloWorldController.class
+org\kie\kogito\app\GlobalObjectMapper$1.class
+org\kie\kogito\app\DecisionConfig.class
+org\kie\kogito\app\DecisionModelResourcesProvider.class
